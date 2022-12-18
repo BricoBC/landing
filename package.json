@@ -1,0 +1,22 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BricoBC/landing.git"
+  },
+  "author": "bruno barajas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BricoBC/landing/issues"
+  },
+  "homepage": "https://github.com/BricoBC/landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
